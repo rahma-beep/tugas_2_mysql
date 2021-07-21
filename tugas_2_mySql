@@ -1,0 +1,14 @@
+1.  tuple adalah baris/row pada relasional database
+    attribute adalah kolom/column pada relasional database
+    relation adalah nama lain dari relational database atau lebih sering disebut
+    dengan tabel
+2.  a. attribute pada tabel mahasiswa tersebut adalah kolom NPM (57119789,51319653,
+       56719451), Nama(Andi Gunawan, Leshi Puspitasari, Maximilianus Anthoni), Jenis Kelamin
+       (Laki-laki, wanita, Laki-laki), Jurusan (Akuntansi, Hukum, Ilmu Komputer), IPK (3.29, 3.60, 3.17)
+    b. - 57119789, Andi Gunawan, Laki - Laki, Akuntansi,3.29
+       - 51319653, Leshi Puspitasari, Wanita, Hukum, 3.60
+       - 56719451, Maximilianus Anthoni, Laki - Laki, Ilmu Komputer, 3.17
+    c. 56719451, Leshi Puspitasari, Laki - Laki, Hukum, 3.17
+3.  Primary Key adalah kolom yang akan menjadi identitas dari setiap baris tabel.
+    Candidate Key adalah satu atau beberapa kolom di dalam tabel yang bisa mengidentifikasi
+    tiap baris dari sebuah tabel yang tidak boleh memiliki data yang sama dan tidak boleh memiliki data kosong
